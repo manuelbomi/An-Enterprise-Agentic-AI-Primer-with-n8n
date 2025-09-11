@@ -233,7 +233,7 @@ Setup Steps
     1. Clone this repo:
 
 
-git clone https://github.com/yourusername/agentic-ai-workflow.git
+git clone 
 cd Agentic_AI_workflow1
 
     • Import the provided workflow JSON into your n8n instance.
