@@ -234,7 +234,7 @@ Setup Steps
 
 
 git clone https://github.com/yourusername/agentic-ai-workflow.git
-cd agentic-ai-workflow
+cd Agentic_AI_workflow1
 
     • Import the provided workflow JSON into your n8n instance.
     • Add your API keys to environment variables or n8n credentials.
