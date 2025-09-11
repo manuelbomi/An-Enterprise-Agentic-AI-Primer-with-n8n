@@ -1,0 +1,146 @@
+{
+  "name": "Agentic_AI_workflow1",
+  "nodes": [
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.chatTrigger",
+      "typeVersion": 1.3,
+      "position": [
+        0,
+        0
+      ],
+      "id": "5c1931b3-2fbe-465c-b391-111e7fe15ced",
+      "name": "chat input",
+      "webhookId": "5eb1b3e9-4d70-4dd7-bb01-d5a8aaba0520",
+      "notesInFlow": true,
+      "notes": "This is how my agent starts a conversation"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 2.2,
+      "position": [
+        208,
+        0
+      ],
+      "id": "a822f192-6acf-40d0-8608-f9b6e3fee353",
+      "name": "AI Agent"
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "gpt-4o-mini",
+          "mode": "list",
+          "cachedResultName": "gpt-4o-mini"
+        },
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        80,
+        208
+      ],
+      "id": "ff64468f-8353-4f50-8cc4-78cfcd4079ed",
+      "name": "OpenAI Chat Model",
+      "credentials": {
+        "openAiApi": {
+          "id": "U1fXSgYSAnA9Ofdo",
+          "name": "N8N Agent"
+        }
+      }
+    },
+    {
+      "parameters": {},
+      "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
+      "typeVersion": 1.3,
+      "position": [
+        224,
+        208
+      ],
+      "id": "7a2c0525-3dbb-4df8-84ef-fb09b7b64e42",
+      "name": "Simple Memory"
+    },
+    {
+      "parameters": {},
+      "type": "@n8n/n8n-nodes-langchain.toolCalculator",
+      "typeVersion": 1,
+      "position": [
+        432,
+        192
+      ],
+      "id": "8fd950a0-4dd3-4ab5-a347-24ba0a797a54",
+      "name": "Calculator"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "chat input": {
+      "main": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenAI Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Simple Memory": {
+      "ai_memory": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_memory",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Calculator": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "af742e82-799a-4ad2-bb1c-7102c3221918",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "2a3fffec960c1da24379e9be1ef5b1aff33ac5ebedbecb2b8fce1d4cd99130a9"
+  },
+  "id": "Po3Pb2G8T1dbdZiQ",
+  "tags": [
+    {
+      "name": "Agentic AI for DE",
+      "id": "wprcK1s0fTnlkc55",
+      "createdAt": "2025-08-12T18:19:19.866Z",
+      "updatedAt": "2025-08-12T18:19:19.866Z"
+    }
+  ]
+}
