@@ -45,7 +45,11 @@ npm install n8n -g
 
 #### Paste the command on your Windows OS CMD terminal
 
-#### After installation completes, just type *n8n* on your cmd terminal to start n8n. Register with your email and obtain a token that you can use to start your workflow
+#### After installation completes, just type *n8n* on your cmd terminal to start n8n. 
+
+#### Ideally, n8n will listen on port 5678, hence, your n8n will start on localhost:5678 on your enterprise computer. 
+
+#### Register with an email and obtain a token that you can use to start your workflow
 
 ---
 
