@@ -86,7 +86,7 @@ npm install n8n -g
 
 ---
 
-#### Click on chat message to see how the agen interfaces works
+#### Click on chat message to see how the agent interfaces works
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/5d00b882-5d99-4b44-b58e-befd80575c7b" />
 
 ---
