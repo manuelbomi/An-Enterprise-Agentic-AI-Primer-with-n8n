@@ -47,13 +47,15 @@ npm install n8n -g
 
 #### After installation completes, just type *n8n* on your cmd terminal to start n8n. 
 
-#### Ideally, n8n will listen on port 5678, hence, your n8n will start on localhost:5678 on your enterprise computer. 
 
-#### Register with an email and obtain a token that you can use to start your workflow
 
 ---
 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/bb056e27-b2c5-4530-b735-ea7b04f1b700" />
 
 ---
+
+#### Ideally, n8n will listen on port 5678, hence, your n8n will start on localhost:5678 on your enterprise computer. 
+
+#### Register with an email and obtain a token that you can use to start your workflow
 
