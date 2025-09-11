@@ -173,11 +173,6 @@ npm install n8n -g
 
 ---
 
-#### Agent now looks as shown in the first figure of the discourse
-<img width="707" height="381" alt="Image" src="https://github.com/user-attachments/assets/31d59d09-18cc-49fd-8b78-24f605d2d936" />
-
----
-
 #### You can choose to keep the current memory lenght at the default value of 5
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/eb1f8fb2-d4be-4da6-bdd2-d6cc32e155dc" />
 
@@ -226,6 +221,25 @@ npm install n8n -g
 
 #### All Agent executions so far
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/5dca5393-205e-4c90-8cfc-eed5371d100a" />
+
+#### Clear the Agent chat history
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/fa0726a4-d67d-4c39-bedf-164b2ca1f2d4" />
+
+---
+
+#### To use this Agent in your own n8n workflow:
+
+Setup Steps
+    1. Clone this repo:
+
+
+git clone https://github.com/yourusername/agentic-ai-workflow.git
+cd agentic-ai-workflow
+
+    • Import the provided workflow JSON into your n8n instance.
+    • Add your API keys to environment variables or n8n credentials.
+    • Start the workflow and interact with the AI agent.
+
 
 
 
