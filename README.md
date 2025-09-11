@@ -9,7 +9,10 @@ In this, discourse, we have shown a step-by-step method by which n8n can be inst
 Our final product will be a fully functional Agentic AI workflow that can do calculations. It is shown in figure 1.
 
 
-<img width="707" height="381" alt="Image" src="https://github.com/user-attachments/assets/0fdda9a4-b5de-450f-85a6-872d42d03c20" />
+<img width="707" height="381" alt="Image" src="https://github.com/user-attachments/assets/1e29fca2-6500-4cae-83ae-ef6a7dce601f" />
+
+
+
 
 
 
