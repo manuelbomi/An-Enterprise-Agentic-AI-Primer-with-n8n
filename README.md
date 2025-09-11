@@ -64,6 +64,10 @@ npm install n8n -g
 
 ---
 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2f628ee1-844e-4f71-bbed-09bb40c50303" />
+
+---
+
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c35325a8-1d36-48e7-93b0-8617774a4df0" />
 
 ---
@@ -72,7 +76,5 @@ npm install n8n -g
 
 ---
 
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2f628ee1-844e-4f71-bbed-09bb40c50303" />
 
----
 
