@@ -111,7 +111,152 @@ npm install n8n -g
 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/77c5aac5-0ae1-4f0d-aea4-9751532dc4e5" />
 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/0d67e55f-ce9d-4de2-a1e6-fb230fce281f" />
+
 ---
+
+#### Click on the plus on the chat input and select AI
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/0b4ed36f-3046-451f-b683-4b4bc0c03878" />
+
+---
+
+#### Select AI Agent
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/381e3c46-d5b2-49fc-9230-5d0e3881b18c" />
+
+---
+
+#### *Click Back to Canvas*
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/3ae45836-5307-4c38-ac03-30432da998de" />
+
+---
+
+#### Click on the chat model and select OpenAI
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/01e06d4b-4f0d-415b-bf47-0699448e50f5" />
+
+---
+
+
+#### Click on *Create New Credential*
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/3532ae1d-5daa-4560-a12b-ff89142cd5ed" />
+
+---
+
+#### Create new credentials and add API secret keys from OpenAI
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a6cf1ba7-ee48-41f7-92e6-7e4fa15636e5" />
+
+---
+
+#### You can rename ur OpenAI Agent, input your secret key and save
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/78ef1b30-8827-4153-aa02-3f5cb374284a" />
+
+---
+
+#### Save, close and select OpenAI agent from the Agent drop down menu
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/0d8a6bfa-b48f-4cd5-919b-a7fa79edbe0f" />
+
+---
+
+#### Select *gpt-4o-mini* to save on cost
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/72476792-de6c-4ada-96fe-7d57df6978b7" />
+
+---
+
+#### Go back to canvas to add memory to your agent
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/cb2792eb-a4e4-4365-8b2a-5bcd6a8d4543" />
+
+---
+
+
+#### Click on memory and select the *Simple Memory* option
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/40014712-1e3f-4266-8d4e-2d02da2a05d1" />
+
+---
+
+#### Agent now looks as shown in the first figure of the discourse
+<img width="707" height="381" alt="Image" src="https://github.com/user-attachments/assets/31d59d09-18cc-49fd-8b78-24f605d2d936" />
+
+---
+
+#### You can choose to keep the current memory lenght at the default value of 5
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/eb1f8fb2-d4be-4da6-bdd2-d6cc32e155dc" />
+
+---
+
+#### Now, add a basic tool such as a calculator
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2d0d5e0c-ce1a-42f0-90fe-39673006eb4c" />
+
+---
+
+#### The basic memory and basic calculator can be used to test if your agent is working
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/4a1573ef-5d7e-4579-9b78-f5ec678e3ac3" />
+
+---
+
+#### Save your model and click on chat to test your workflow
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/0505dbec-b822-40fc-943f-49501ce21d6c" />
+
+---
+
+####  Test the model without any calculation task
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/5c721e87-b7f9-4534-a532-21e893336573" />
+
+---
+
+#### The workflow will run 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/31fe993c-ae22-47b8-903b-c8eca91a7b3a" />
+
+---
+
+#### Some errors such as billing issues or insufficient fund on the OpenAI billing base. Fund your account adequately
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/7da58988-17b9-4cde-a38c-09bf2e58d84d" />
+
+---
+
+
+#### Now the workflow works without further issues
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/71b879ce-7f46-4a54-b862-65bfaf3c9a70" />
+
+---
+
+#### Agent show how to use the calculator tool
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a58fc08b-5b99-4aec-84f1-9d29db46562b" />
+
+---
+
+#### All Agent executions so far
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/5dca5393-205e-4c90-8cfc-eed5371d100a" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
