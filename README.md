@@ -17,6 +17,36 @@ Our final product will be a fully functional Agentic AI workflow that can do cal
 
 
 
-## Steps
+## Steps to Obtain the Agentic AI Workflow Shown Above
 
-### Go to https://n8n.io/ and click on docs
+#### Navigate to n8n.io website https://n8n.io/ and click on docs
+---
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1464af68-0dc0-4c61-b57c-d86cd31aec75" />
+
+---
+
+#### For Windows OS self hosting, select *self host n8n* and the select *npm*. Ensure that you have installed nodejs on your Windows OS before installing n8n. Copy the command below:
+'''
+npm install n8n -g
+
+---
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/5c0cb743-18e6-4ed9-bbe9-b8982db3f9b2" />
+
+---
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/779c3e0e-f7e3-466a-9de7-f6afd09fb146" />
+
+---
+
+#### Paste the command on your Windows OS CMD terminal
+
+#### After installation completes, just type *n8n* on your cmd terminal to start n8n. Register with your email and obtain a token that you can use to start your workflow
+
+---
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/bb056e27-b2c5-4530-b735-ea7b04f1b700" />
+
+---
+
