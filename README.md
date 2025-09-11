@@ -227,13 +227,13 @@ npm install n8n -g
 
 ---
 
-#### To use this Agent in your own n8n workflow:
+### How to use this Agent in your own n8n workflow:
 
 Setup Steps
     1. Clone this repo:
 
 
-git clone 
+git clone https://github.com/manuelbomi/An-Enterprise-Agentic-AI-Primer-with-n8n.git
 cd Agentic_AI_workflow1
 
     • Import the provided workflow JSON into your n8n instance.
