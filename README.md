@@ -86,6 +86,32 @@ npm install n8n -g
 
 ---
 
+#### Click on chat message to see how the agen interfaces works
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/5d00b882-5d99-4b44-b58e-befd80575c7b" />
+
+---
+
+#### Chat message interface
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/502662b5-77c3-423b-8e6a-a648f4109b61" />
+
+---
+
+#### Click message and add some details in the Notes. Turn on Display Note in Flow and Click Back to Canvas
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/4b503fe6-76bd-4fe8-b745-bd9e8171d787" />
+
+---
+
+#### The chat message agent will be displayed on the canvas
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e5c77c9a-685e-499f-98f0-ff822a5d8b9b" />
+
+---
+
+#### Click the 3 dots to rename the node
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8bd4219c-fdbb-45ab-bb62-ee094b6e703c" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/77c5aac5-0ae1-4f0d-aea4-9751532dc4e5" />
+
+---
 
 
 
