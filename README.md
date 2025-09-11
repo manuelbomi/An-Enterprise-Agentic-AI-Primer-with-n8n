@@ -27,7 +27,7 @@ Our final product will be a fully functional Agentic AI workflow that can do cal
 ---
 
 #### For Windows OS self hosting, select *self host n8n* and the select *npm*. Ensure that you have installed nodejs on your Windows OS before installing n8n. Copy the command below:
-''' ruby
+```ruby
 npm install n8n -g
 
 ---
