@@ -227,7 +227,7 @@ npm install n8n -g
 
 ---
 
-### How to use this Agent in your own n8n workflow:
+## How to use this Agent in your own n8n workflow:
 
 Setup Steps
     1. Clone this repo:
@@ -239,6 +239,36 @@ cd Agentic_AI_workflow1
     • Import the provided workflow JSON into your n8n instance.
     • Add your API keys to environment variables or n8n credentials.
     • Start the workflow and interact with the AI agent.
+
+
+
+--
+Thank you for reading 
+---
+
+
+### **AUTHOR'S BACKGROUND**
+### Author's Name:  Emmanuel Oyekanlu
+```
+Skillset:   I have experience spanning several years in data science, developing scalable enterprise data pipelines,
+enterprise solution architecture, architecting enterprise systems data and AI applications,
+software and AI solution design and deployments, data engineering, high performance computing (GPU, CUDA), machine learning,
+NLP, Agentic-AI and LLM applications as well as deploying scalable solutions (apps) on-prem and in the cloud.
+
+I can be reached through: manuelbomi@yahoo.com
+
+Website:  http://emmanueloyekanlu.com/
+Publications:  https://scholar.google.com/citations?user=S-jTMfkAAAAJ&hl=en
+LinkedIn:  https://www.linkedin.com/in/emmanuel-oyekanlu-6ba98616
+Github:  https://github.com/manuelbomi
+
+```
+[![Icons](https://skillicons.dev/icons?i=aws,azure,gcp,scala,mongodb,redis,cassandra,kafka,anaconda,matlab,nodejs,django,py,c,anaconda,git,github,mysql,docker,kubernetes&theme=dark)](https://skillicons.dev)
+
+
+
+
+
 
 
 
