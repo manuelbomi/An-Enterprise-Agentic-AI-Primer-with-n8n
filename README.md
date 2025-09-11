@@ -78,8 +78,13 @@ npm install n8n -g
 
 #### Add tag to give more detailed explanation
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/666970d0-0a47-4a94-8471-812c2d11d42b" />
+
 ---
 
+#### Click on *add first step* 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a5daf391-44d8-446a-82b9-946fffa55386" />
+
+---
 
 
 
